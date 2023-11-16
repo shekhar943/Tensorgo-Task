@@ -1,9 +1,21 @@
 # Customer Service Platform with Google OAuth and Intercom Chatbot Integration
 
 ## Overview
-
 This project is a customer service platform designed to handle inquiries efficiently. It utilizes Google OAuth for secure user authentication and integrates a third-party Intercom chatbot for real-time communication. The application is built using Node.js for the backend and React.js for the frontend.
 
+### Images 
+
+![login](https://github.com/shekhar943/Tensorgo-Task/assets/105142613/909d3a30-5689-4d5c-b388-8edc3f163477)
+
+</br>
+
+![signUp](https://github.com/shekhar943/Tensorgo-Task/assets/105142613/6d1f1258-51ac-4a2b-8015-14e28e3b7742)
+
+</br>
+
+![customer](https://github.com/shekhar943/Tensorgo-Task/assets/105142613/5c191898-7209-49b4-8baf-ac49c44c89a9)
+
+</br>
 ## Features
 
 - **Google OAuth Integration:** Secure user authentication using Google OAuth ensures a reliable and user-friendly login process.
@@ -71,6 +83,8 @@ Before running the application, ensure you have the following installed:
 ## Contributing
 Feel free to contribute to the development of this project. 
 Fork the repository, make your changes, and submit a pull request.
+
+
 
 ## Contact
 For inquiries and support, please contact Daravath shekhar.
