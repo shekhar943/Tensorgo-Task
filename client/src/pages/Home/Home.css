@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    background-color: #eee;
+    padding: 1em;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+main {
+    padding: 1em;
+}
+
+.query-section {
+    margin-bottom: 2em;
+}
+
+.query-section h2 {
+    color: #333;
+}
+
+.query-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.query-section li {
+    margin-bottom: 0.5em;
+}
+
+.query-form {
+    margin-top: 1em;
+}
+
+.query-form textarea {
+    width: 100%;
+    margin-bottom: 0.5em;
+}
+
+.query-form input {
+    width: 100%;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+}
+
+.query-form button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+.btn-btn-btn {
+    background-color: #373131;
+        color: #fff;
+        text-align: center;
+        padding: 1em;
+        margin-bottom: 10px;
+        width: 150px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+
+
